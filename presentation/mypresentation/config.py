@@ -88,4 +88,5 @@ REVEAL_CONFIG = {
     # Number, e.g. 100
     "parallaxBackgroundHorizontal": "",
     "parallaxBackgroundVertical": "",
+    
 }
