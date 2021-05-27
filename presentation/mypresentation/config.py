@@ -30,7 +30,7 @@ REVEAL_CONFIG = {
     # Display a presentation progress bar
     "progress": True,
     # Display the page number of the current slide
-    "slideNumber": False,
+    "slideNumber": True,
     # Push each slide change to the browser history
     "history": True,
     # Enable keyboard shortcuts for navigation
